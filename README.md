@@ -1,9 +1,9 @@
 ### Tesi triennale in Progettazione del Software - Università degli studi di Salerno
 
-Anno: 2021/2022
-Studente: Francesco Landi
-Relatore: Ch.mo Prof. Francesco Orciuoli
-Facoltà: Statistica per i Big Data
+Anno: 2021/2022 <br/>
+Studente: Francesco Landi <br/>
+Relatore: Ch.mo Prof. Francesco Orciuoli <br/>
+Facoltà: Statistica per i Big Data <br/>
 
 ### Abstract
 
